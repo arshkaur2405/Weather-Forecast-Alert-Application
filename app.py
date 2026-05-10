@@ -290,3 +290,4 @@ if st.sidebar.button("Get Weather"):
     )
 
     st.success("Weather Report Generated Successfully")
+    # ....
