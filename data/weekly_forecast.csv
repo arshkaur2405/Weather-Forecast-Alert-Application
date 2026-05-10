@@ -1,0 +1,8 @@
+Day,City,Temperature,Humidity,Condition
+Monday,Delhi,40,80,Sunny
+Tuesday,Delhi,42,84,Sunny
+Wednesday,Delhi,39,78,Cloudy
+Thursday,Delhi,38,82,Rain
+Friday,Delhi,37,88,Heavy Rain
+Saturday,Delhi,41,76,Sunny
+Sunday,Delhi,43,70,Clear Sky

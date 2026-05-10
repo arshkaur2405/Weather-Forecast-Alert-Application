@@ -1,0 +1,14 @@
+[
+  {
+    "city": "Delhi",
+    "temperature": 41,
+    "humidity": 82,
+    "condition": "Sunny"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": 29,
+    "humidity": 94,
+    "condition": "Heavy Rain"
+  }
+]

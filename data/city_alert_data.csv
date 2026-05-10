@@ -1,0 +1,5 @@
+City,TempThreshold,HumidityThreshold,RainAlert
+Delhi,35,80,Yes
+Mumbai,32,85,Yes
+Jaipur,40,50,No
+Kolkata,34,90,Yes
